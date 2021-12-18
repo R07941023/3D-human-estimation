@@ -1,0 +1,2 @@
+progress_rate, remaining_time
+77 0.71 /media/yenying/f91db070-879c-4386-9b31-69673baf0824/sportdata/Sport_project_v1.4.6/UI/3D_reconstruction_v1.0.0/video/456.avi

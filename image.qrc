@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>../images/add.png</file>
+    <file>../images/add_2.png</file>
+    <file>../images/remove.png</file>
+    <file>../images/remove_2.png</file>
+    <file>../images/save.png</file>
+    <file>../images/view-2.png</file>
+    <file>../images/run.png</file>
+</qresource>
+</RCC>
